@@ -1,1 +1,3 @@
 # bookbot
+
+BookBot is the boot.dev first project...
